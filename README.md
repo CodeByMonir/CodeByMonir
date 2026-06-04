@@ -25,9 +25,6 @@ I enjoy creating high-performance web applications, e-commerce platforms, dashbo
 ![](https://github-readme-stats.shion.dev/api?username=CodeByMonir&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=CodeByMonir&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=CodeByMonir&icon=0&color=9)](https://visitcount.itsvg.in)
-
 
 ## 🚀 About Me
 
