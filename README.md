@@ -92,11 +92,12 @@ A full-featured e-commerce platform with modern shopping experience, product man
 
 🌐 Portfolio: https://codebymonir.vercel.app/
 
+📧 Email: [codebymonir@gmail.com](mailto:codebymonir@gmail.com)
+
 💼 LinkedIn: https://www.linkedin.com/in/codebymonir/
 
 📘 Facebook: https://facebook.com/moniratmeta/
 
-🐙 GitHub: https://github.com/CodeByMonir
 
 ## 🎯 Current Focus
 
