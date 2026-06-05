@@ -1,3 +1,10 @@
+<p align="center">
+  <a href="https://codebymonir.vercel.app/">
+    <img src="https://codebymonir.vercel.app/banner.png" alt="CodeByMonir Portfolio Banner" />
+  </a>
+</p>
+
+
 # Hi 👋 I'm Monir Hossen (CodeByMonir)
 
 ### MERN Stack Developer | Full Stack Developer
