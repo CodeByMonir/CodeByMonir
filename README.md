@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://codebymonir.vercel.app/" target="_blank">
-    <img src="https://codebymonir.vercel.app/banner.png" alt="CodeByMonir Portfolio Banner" width="100%" />
+    <img src="https://codebymonir.vercel.app/banner.webp" alt="CodeByMonir Portfolio Banner" width="100%" />
   </a>
 </p>
 
