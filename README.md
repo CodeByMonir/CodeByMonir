@@ -91,12 +91,18 @@ Database & Cloud
 Tools & Platforms
 <p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&perline=8" /> </p><!-- ============================================ --><!-- ============================================ -->
 📊 GitHub Analytics
+## 📊 **GitHub Stats**
+
 <p align="center">
-<!-- GITHUB STATS -->
   <a href="https://github.com/CodeByMonir">
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CodeByMonir&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CodeByMonir&layout=compact&langs_count=10&theme=radical&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CodeByMonir&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByMonir&layout=compact&langs_count=10&theme=radical&hide_border=true" />
   </a>
+</p>
+
+<!-- Streak Stats (Updated Working Link) -->
+<p align="center">
+  <img src="https://github-readme-streak-stats-pi.vercel.app?user=CodeByMonir&theme=radical&hide_border=true" />
 </p><!-- STREAK STATS -->
 <a  align="center href="https://nice-readme.vercel.app/streak-stats" target="_blank" rel="noopener noreferrer"><img src="https://github-streak-stats-ruby.vercel.app/?user=codebymonir&theme=dark&hide_border=false&border_radius=4.5&locale=en&short_numbers=false&mode=daily&disable_animations=false&card_width=466&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false" alt="GitHub Streak de codebymonir" width="466" height="194" loading="lazy" /></a><!-- CONTRIBUTION GRAPH --><p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeByMonir&bg_color=1a1b27&color=00F0FF&line=00F0FF&point=FFFFFF&area=true&hide_border=true" /> </p><!-- ============================================ --><!-- TROPHIES --><!-- ============================================ -->
 🏆 Achievements
