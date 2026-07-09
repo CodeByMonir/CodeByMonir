@@ -77,13 +77,13 @@ const CodeByMonir = {
 <!-- ============================================ --><!-- SKILLS SECTION (With Icons) --><!-- ============================================ -->
 🛠️ My Tech Stack
 Frontend Development
-<p align="center"> <img src="https://skillicons.dev/icons?i=react,next,js,ts,redux,tailwind,bootstrap,html,css,sass&perline=10" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=react,next,js,ts,tailwind,html,css&perline=10" /> </p>
 Backend Development
-<p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,python,php,java,spring,graphql,rest&perline=8" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,nosql,rest&perline=8" /> </p>
 Database & Cloud
-<p align="center"> <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,firebase,redis,aws,azure,docker,kubernetes,vercel&perline=10" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=mongodb,vercel&perline=10" /> </p>
 Tools & Platforms
-<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,linux,nginx,jenkins&perline=8" /> </p><!-- ============================================ --><!-- GITHUB STATS --><!-- ============================================ -->
+<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&perline=8" /> </p><!-- ============================================ --><!-- GITHUB STATS --><!-- ============================================ -->
 📊 GitHub Analytics
 <p align="center"> <a href="https://github.com/CodeByMonir"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CodeByMonir&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByMonir&layout=compact&langs_count=10&theme=radical&hide_border=true" /> </a> </p><!-- STREAK STATS --><p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByMonir&theme=radical&hide_border=true" /> </p><!-- CONTRIBUTION GRAPH --><p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeByMonir&bg_color=1a1b27&color=00F0FF&line=00F0FF&point=FFFFFF&area=true&hide_border=true" /> </p><!-- ============================================ --><!-- TROPHIES --><!-- ============================================ -->
 🏆 Achievements
