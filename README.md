@@ -124,7 +124,32 @@ Tools & Platforms
   <img src="https://img.shields.io/badge/Commits-500%2B-0D1117?style=for-the-badge&logo=github&logoColor=FF6B6B" />
 </p><!-- ============================================ --><!-- PROJECTS SHOWCASE --><!-- ============================================ -->
 🚀 Featured Projects
-<table> <tr> <td width="50%"> <h3 align="center">🏨 Tourism Website</h3> <p align="center"> <a href="https://github.com/CodeByMonir/tourism-website"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeByMonir&repo=tourism-website&theme=radical&hide_border=true" /> </a> </p> <p align="center">Full-featured tourism platform with React, Node.js, MongoDB</p> </td> <td width="50%"> <h3 align="center">🛒 E-Commerce Platform</h3> <p align="center"> <a href="https://github.com/CodeByMonir/ecommerce-platform"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeByMonir&repo=ecommerce-platform&theme=radical&hide_border=true" /> </a> </p> <p align="center">Full-stack e-commerce with Next.js, TypeScript, Stripe</p> </td> </tr> <tr> <td width="50%"> <h3 align="center">✅ Task Manager Pro</h3> <p align="center"> <a href="https://github.com/CodeByMonir/task-manager-pro"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeByMonir&repo=task-manager-pro&theme=radical&hide_border=true" /> </a> </p> <p align="center">Real-time task management with Next.js, Firebase, Tailwind</p> </td> <td width="50%"> <h3 align="center">🌤️ Weather Dashboard</h3> <p align="center"> <a href="https://github.com/CodeByMonir/weather-dashboard"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeByMonir&repo=weather-dashboard&theme=radical&hide_border=true" /> </a> </p> <p align="center">Real-time weather app with React, OpenWeather API, Chart.js</p> </td> </tr> </table><!-- ============================================ --><!-- LATEST BLOG POSTS --><!-- ============================================ -->
+<!-- PROJECTS SHOWCASE (Alternative Layout) -->
+## 🚀 **Featured Projects**
+
+<div align="center">
+  <!-- Project 1 -->
+  <a href="https://medi-care-client-6fx8.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🏥_MediCare_Connect-Live_Demo-00F0FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/CodeByMonir/medi_care_client" target="_blank">
+    <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <br/>
+  
+  <!-- Project 2 -->
+  <a href="https://car-rental-client-eight-opal.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚗_Car_Rental-Live_Demo-00F0FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/CodeByMonir/carRental-Client" target="_blank">
+    <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+| Project | Description | Tech Stack | Live Demo |
+|---------|-------------|------------|-----------|
+| **🏥 MediCare Connect** | Hospital Appointment & Healthcare Management System | Next.js, Node.js, MongoDB, Stripe | [🔗 Live](https://medi-care-client-6fx8.vercel.app/) |
+| **🚗 Car Rental Platform** | Full-Stack Car Rental Management System | Next.js, Express, MongoDB, JWT | [🔗 Live](https://car-rental-client-eight-opal.vercel.app/) |<!-- ============================================ --><!-- LATEST BLOG POSTS --><!-- ============================================ -->
 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 Building a REST API with Node.js and Express: Complete Guide
