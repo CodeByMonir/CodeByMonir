@@ -41,6 +41,7 @@
 <!-- ============================================ -->
 <!-- ABOUT ME SECTION (3-4 Lines)                 -->
 <!-- ============================================ -->
+
 ## 💫 **About Me**
 
 <p align="center">
@@ -60,11 +61,14 @@ const CodeByMonir = {
   location: "Dhaka, Bangladesh",
   experience: "3+ Years",
   passion: "Building scalable web applications",
-  mission: "Write clean code that solves real-world problems"
+  mission: "Write clean code that solves real-world problems",
 };
 ```
+
 <!-- ============================================ --><!-- CURRENT ACTIVITIES (Bullet Points) --><!-- ============================================ -->
+
 🔥 Current Activities
+
 <p align="center"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"/> </p>
 🚀 Exploring: Next.js 14, Server Components, and App Router
 
@@ -75,8 +79,10 @@ const CodeByMonir = {
 🤝 Contributing: Open source projects and community packages
 
 <!-- ============================================ --><!-- SKILLS SECTION (With Icons) --><!-- ============================================ -->
+
 🛠️ My Tech Stack
 Frontend Development
+
 <p align="center"> <img src="https://skillicons.dev/icons?i=react,next,js,ts,tailwind,html,css&perline=10" /> </p>
 Backend Development
 <p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,nosql,rest&perline=8" /> </p>
@@ -85,7 +91,12 @@ Database & Cloud
 Tools & Platforms
 <p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&perline=8" /> </p><!-- ============================================ --><!-- GITHUB STATS --><!-- ============================================ -->
 📊 GitHub Analytics
-<p align="center"> <a href="https://github.com/CodeByMonir"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CodeByMonir&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByMonir&layout=compact&langs_count=10&theme=radical&hide_border=true" /> </a> </p><!-- STREAK STATS --><a href="https://nice-readme.vercel.app/streak-stats" target="_blank" rel="noopener noreferrer"><img src="https://github-streak-stats-ruby.vercel.app/?user=codebymonir&theme=dark&hide_border=false&border_radius=4.5&locale=en&short_numbers=false&mode=daily&disable_animations=false&card_width=466&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false" alt="GitHub Streak de codebymonir" width="466" height="194" loading="lazy" /></a><!-- CONTRIBUTION GRAPH --><p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeByMonir&bg_color=1a1b27&color=00F0FF&line=00F0FF&point=FFFFFF&area=true&hide_border=true" /> </p><!-- ============================================ --><!-- TROPHIES --><!-- ============================================ -->
+<p align="center">
+  <a href="https://github.com/CodeByMonir">
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CodeByMonir&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CodeByMonir&layout=compact&langs_count=10&theme=radical&hide_border=true" />
+  </a>
+</p><!-- STREAK STATS --><a  align="center href="https://nice-readme.vercel.app/streak-stats" target="_blank" rel="noopener noreferrer"><img src="https://github-streak-stats-ruby.vercel.app/?user=codebymonir&theme=dark&hide_border=false&border_radius=4.5&locale=en&short_numbers=false&mode=daily&disable_animations=false&card_width=466&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false" alt="GitHub Streak de codebymonir" width="466" height="194" loading="lazy" /></a><!-- CONTRIBUTION GRAPH --><p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeByMonir&bg_color=1a1b27&color=00F0FF&line=00F0FF&point=FFFFFF&area=true&hide_border=true" /> </p><!-- ============================================ --><!-- TROPHIES --><!-- ============================================ -->
 🏆 Achievements
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=CodeByMonir&theme=radical&no-frame=true&row=2&column=4" /> </p><!-- ============================================ --><!-- PROJECTS SHOWCASE --><!-- ============================================ -->
 🚀 Featured Projects
@@ -101,7 +112,9 @@ MERN Stack Development: Best Practices and Tips
 Mastering Next.js 14: Server Components Explained
 
 <!-- BLOG-POST-LIST:END --><!-- ============================================ --><!-- SNAKE GAME CONTRIBUTION --><!-- ============================================ -->
+
 🐍 Contribution Snake
+
 <p align="center"> <img src="https://github.com/CodeByMonir/CodeByMonir/blob/output/github-contribution-grid-snake.svg" /> </p><!-- ============================================ --><!-- VISITOR COUNTER --><!-- ============================================ -->
 👀 Profile Views
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=CodeByMonir&label=Profile%20Views&color=00F0FF&style=flat" /> </p><!-- ============================================ --><!-- WAVY FOOTER --><!-- ============================================ --><p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/> </p><!-- ============================================ --><!-- FOOTER --><!-- ============================================ --><p align="center"> <b>💡 "Write clean code that solves real-world problems"</b> <br> <i>© 2026 CodeByMonir | Built with ❤️ and ☕</i> <br> <code>#CodeByMonir #FullStackDeveloper #JavaScript #React #NodeJS #MERN</code> </p>
