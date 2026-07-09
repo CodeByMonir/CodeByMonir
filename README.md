@@ -2,7 +2,7 @@
 <!-- BANNER IMAGE                                 -->
 <!-- ============================================ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=CodeByMonir&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=white" width="100%"/>
+  <img src="assets/github-header-banner.png" width="100%"/>
 </p>
 
 <!-- ============================================ -->
