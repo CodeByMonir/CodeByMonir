@@ -8,11 +8,11 @@
 <!-- ============================================ -->
 <!-- NAME & DESIGNATION                           -->
 <!-- ============================================ -->
-<h1 align="center">Hi there! 👋 I'm Monir</h1>
-<h3 align="center">Full-Stack Developer | JavaScript Specialist | MERN Stack Expert</h3>
+<h1 align="center">Hi there! I'm Monir Hossen</h1>
+<h3 align="center">MERN Stack Expert | Next.js Developer | Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=28&center=true&vCenter=true&width=700&height=50&duration=3000&pause=1000&color=00F0FF&lines=Professional+Full-Stack+Developer;React+%26+Node.js+Expert;Building+Scalable+Web+Applications;MERN+Stack+Specialist;Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=28&center=true&vCenter=true&width=700&height=50&duration=3000&pause=1000&color=00F0FF&lines=Professional+Full-Stack+Developer;React+%26+Node.js+Expert;Next.js+Developer;Building+Scalable+Web+Applications;MERN+Stack+Specialist;Open+Source+Contributor" />
 </p>
 
 <!-- ============================================ -->
@@ -25,16 +25,7 @@
   <a href="https://linkedin.com/in/codebymonir">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/codebymonir">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://dev.to/codebymonir">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
-  </a>
-  <a href="https://hashnode.com/@codebymonir">
-    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
-  </a>
-  <a href="https://codebymonir.com">
+  <a href="https://codebymonir.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
   <a href="mailto:codebymonir@gmail.com">
