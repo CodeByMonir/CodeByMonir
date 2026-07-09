@@ -111,7 +111,18 @@ Tools & Platforms
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeByMonir&bg_color=1a1b27&color=00F0FF&line=00F0FF&point=FFFFFF&area=true&hide_border=true" /> </p><!-- ============================================ --><!-- TROPHIES --><!-- ============================================ -->
 🏆 Achievements
 <p align="center">
-<img src="https://img.shields.io/badge/-TEXT-BG_COLOR?style=for-the-badge&logo=LOGO_NAME&logoColor=LOGO_COLOR" /></p><!-- ============================================ --><!-- PROJECTS SHOWCASE --><!-- ============================================ -->
+  <!-- Total Stars -->
+  <img src="https://img.shields.io/github/stars/CodeByMonir?style=for-the-badge&logo=github&logoColor=FFD700&label=Total%20Stars&color=0D1117" />
+  
+  <!-- Total Followers -->
+  <img src="https://img.shields.io/github/followers/CodeByMonir?style=for-the-badge&logo=github&logoColor=00F0FF&label=Followers&color=0D1117" />
+  
+  <!-- Total Repositories -->
+  <img src="https://img.shields.io/badge/Repositories-20%2B-0D1117?style=for-the-badge&logo=github&logoColor=4ECDC4" />
+  
+  <!-- Total Commits -->
+  <img src="https://img.shields.io/badge/Commits-500%2B-0D1117?style=for-the-badge&logo=github&logoColor=FF6B6B" />
+</p><!-- ============================================ --><!-- PROJECTS SHOWCASE --><!-- ============================================ -->
 🚀 Featured Projects
 <table> <tr> <td width="50%"> <h3 align="center">🏨 Tourism Website</h3> <p align="center"> <a href="https://github.com/CodeByMonir/tourism-website"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeByMonir&repo=tourism-website&theme=radical&hide_border=true" /> </a> </p> <p align="center">Full-featured tourism platform with React, Node.js, MongoDB</p> </td> <td width="50%"> <h3 align="center">🛒 E-Commerce Platform</h3> <p align="center"> <a href="https://github.com/CodeByMonir/ecommerce-platform"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeByMonir&repo=ecommerce-platform&theme=radical&hide_border=true" /> </a> </p> <p align="center">Full-stack e-commerce with Next.js, TypeScript, Stripe</p> </td> </tr> <tr> <td width="50%"> <h3 align="center">✅ Task Manager Pro</h3> <p align="center"> <a href="https://github.com/CodeByMonir/task-manager-pro"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeByMonir&repo=task-manager-pro&theme=radical&hide_border=true" /> </a> </p> <p align="center">Real-time task management with Next.js, Firebase, Tailwind</p> </td> <td width="50%"> <h3 align="center">🌤️ Weather Dashboard</h3> <p align="center"> <a href="https://github.com/CodeByMonir/weather-dashboard"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeByMonir&repo=weather-dashboard&theme=radical&hide_border=true" /> </a> </p> <p align="center">Real-time weather app with React, OpenWeather API, Chart.js</p> </td> </tr> </table><!-- ============================================ --><!-- LATEST BLOG POSTS --><!-- ============================================ -->
 📝 Latest Blog Posts
