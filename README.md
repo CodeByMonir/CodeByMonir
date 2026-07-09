@@ -80,18 +80,25 @@ const CodeByMonir = {
 
 <!-- ============================================ --><!-- SKILLS SECTION (With Icons) --><!-- ============================================ -->
 
+<p align="center">
 🛠️ My Tech Stack
 Frontend Development
+</p>
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=react,next,js,ts,tailwind,html,css&perline=10" /> </p>
+<p align="center">
 Backend Development
+</p>
 <p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,nosql,rest&perline=8" /> </p>
+<p align="center">
 Database & Cloud
+</p>
 <p align="center"> <img src="https://skillicons.dev/icons?i=mongodb,vercel&perline=10" /> </p>
+<p align="center">
 Tools & Platforms
+</p>
 <p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&perline=8" /> </p><!-- ============================================ --><!-- ============================================ -->
-📊 GitHub Analytics
-## 📊 **GitHub Stats**
+<p align="center">📊 GitHub Analytics</p>
 <!-- STREAK STATS -->
 <p align="center">
   <img src="https://github-streak-stats-ruby.vercel.app/?user=codebymonir&theme=dark&hide_border=false&border_radius=4.5&locale=en&short_numbers=false&mode=daily&disable_animations=false&card_width=466&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false" alt="GitHub Streak de codebymonir" width="466" height="194" loading="lazy" />
