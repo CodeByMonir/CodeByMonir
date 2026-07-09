@@ -125,7 +125,6 @@ Tools & Platforms
 </p><!-- ============================================ --><!-- PROJECTS SHOWCASE --><!-- ============================================ -->
 🚀 Featured Projects
 <!-- PROJECTS SHOWCASE (Alternative Layout) -->
-## 🚀 **Featured Projects**
 
 <div align="center">
   <!-- Project 1 -->
