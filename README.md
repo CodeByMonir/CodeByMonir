@@ -2,7 +2,7 @@
 <!-- BANNER IMAGE                                 -->
 <!-- ============================================ -->
 <p align="center">
-  <img src="assets/github-header-banner.png" width="100%"/>
+  <img src="assets/github-header-banner.png" width="100%"  loading="lazy" />
 </p>
 
 <!-- ============================================ -->
