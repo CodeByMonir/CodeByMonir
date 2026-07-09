@@ -2,19 +2,27 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *"   # প্রতিদিন মধ্যরাতে রান হবে
+  workflow_dispatch:       # ম্যানুয়ালি রান করার জন্য
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
     steps:
       - uses: actions/checkout@v3
+      
       - uses: Platane/snk@v3
+        id: snake-gif
         with:
           github_user_name: CodeByMonir
           outputs: |
             output/github-contribution-grid-snake.svg
+            output/github-contribution-grid-snake-dark.svg?palette=github-dark
+      
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "Update snake animation"
+          commit_message: "🔄 Update snake animation"
+          file_pattern: 'output/*.svg'
