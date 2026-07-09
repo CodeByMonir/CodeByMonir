@@ -123,6 +123,6 @@ Mastering Next.js 14: Server Components Explained
 
 🐍 Contribution Snake
 
-<p align="center"> <img src="https://github.com/CodeByMonir/CodeByMonir/blob/output/github-contribution-grid-snake-dark.svg" /> </p><!-- ============================================ --><!-- VISITOR COUNTER --><!-- ============================================ -->
+<p align="center"> <img src="https://github.com/CodeByMonir/CodeByMonir/blob/main/output/github-contribution-grid-snake-dark.svg" /> </p><!-- ============================================ --><!-- VISITOR COUNTER --><!-- ============================================ -->
 👀 Profile Views
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=CodeByMonir&label=Profile%20Views&color=00F0FF&style=flat" /> </p><!-- ============================================ --><!-- WAVY FOOTER --><!-- ============================================ --><p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/> </p><!-- ============================================ --><!-- FOOTER --><!-- ============================================ --><p align="center"> <b>💡 "Write clean code that solves real-world problems"</b> <br> <i>© 2026 CodeByMonir | Built with ❤️ and ☕</i> <br> <code>#CodeByMonir #FullStackDeveloper #JavaScript #React #NodeJS #MERN</code> </p>
