@@ -47,14 +47,18 @@
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50"/>
 </p>
 
-I'm a passionate **Full-Stack Developer** from Bangladesh with 5+ years of experience in building modern web applications. I specialize in JavaScript, React, Node.js, and the MERN stack. I love solving complex problems, contributing to open source, and creating user-friendly applications that make a difference.
+I'm a passionate Full Stack Web Developer dedicated to crafting exceptional digital experiences.
+
+With 3+ years of hands-on experience, I specialize in the MERN stack (MongoDB, Express.js, React, Node.js) and modern frameworks like Next.js.
+
+My approach combines clean code architecture, responsive design, and SEO best practices to deliver high-quality solutions.
 
 ```javascript
 const CodeByMonir = {
-  name: "Monir",
-  title: "Full-Stack Developer",
-  location: "📍 Dhaka, Bangladesh",
-  experience: "5+ Years",
+  name: "Monir Hossen",
+  title: "Mern Stack Developer",
+  location: "Dhaka, Bangladesh",
+  experience: "3+ Years",
   passion: "Building scalable web applications",
   mission: "Write clean code that solves real-world problems"
 };
@@ -64,13 +68,9 @@ const CodeByMonir = {
 <p align="center"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"/> </p>
 🚀 Exploring: Next.js 14, Server Components, and App Router
 
-💻 Building: A full-featured Tourism Website with React & Node.js
+💻 Building: A full-featured MediCare Connection with Next.js & Express
 
 🌱 Learning: TypeScript, GraphQL, and Microservices Architecture
-
-☁️ Working on: Cloud deployment with AWS and Docker
-
-📝 Writing: Technical blogs about JavaScript and Web Development
 
 🤝 Contributing: Open source projects and community packages
 
