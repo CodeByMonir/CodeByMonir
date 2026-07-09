@@ -93,9 +93,9 @@ Tools & Platforms
 📊 GitHub Analytics
 ## 📊 **GitHub Stats**
 <!-- STREAK STATS -->
-<div align="center>
-<a href="https://nice-readme.vercel.app/streak-stats" target="_blank" rel="noopener noreferrer"><img src="https://github-streak-stats-ruby.vercel.app/?user=codebymonir&theme=dark&hide_border=false&border_radius=4.5&locale=en&short_numbers=false&mode=daily&disable_animations=false&card_width=466&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false" alt="GitHub Streak de codebymonir" width="466" height="194" loading="lazy" /></a>
-</div>
+<p align="center">
+  <img src="https://github-streak-stats-ruby.vercel.app/?user=codebymonir&theme=dark&hide_border=false&border_radius=4.5&locale=en&short_numbers=false&mode=daily&disable_animations=false&card_width=466&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false" alt="GitHub Streak de codebymonir" width="466" height="194" loading="lazy" />
+</p>
 <!-- CONTRIBUTION GRAPH -->
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeByMonir&bg_color=1a1b27&color=00F0FF&line=00F0FF&point=FFFFFF&area=true&hide_border=true" /> </p><!-- ============================================ --><!-- TROPHIES --><!-- ============================================ -->
 🏆 Achievements
