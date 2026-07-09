@@ -1,185 +1,118 @@
+<!-- ============================================ -->
+<!-- BANNER IMAGE                                 -->
+<!-- ============================================ -->
 <p align="center">
-  <a href="https://codebymonir.vercel.app/" target="_blank">
-    <img src="https://codebymonir.vercel.app/banner.webp" alt="CodeByMonir Portfolio Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=CodeByMonir&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=white" width="100%"/>
+</p>
+
+<!-- ============================================ -->
+<!-- NAME & DESIGNATION                           -->
+<!-- ============================================ -->
+<h1 align="center">Hi there! 👋 I'm Monir</h1>
+<h3 align="center">Full-Stack Developer | JavaScript Specialist | MERN Stack Expert</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=28&center=true&vCenter=true&width=700&height=50&duration=3000&pause=1000&color=00F0FF&lines=Professional+Full-Stack+Developer;React+%26+Node.js+Expert;Building+Scalable+Web+Applications;MERN+Stack+Specialist;Open+Source+Contributor" />
+</p>
+
+<!-- ============================================ -->
+<!-- SOCIAL LINKS (Professional Only)             -->
+<!-- ============================================ -->
+<p align="center">
+  <a href="https://github.com/CodeByMonir">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/codebymonir">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/codebymonir">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://dev.to/codebymonir">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
+  </a>
+  <a href="https://hashnode.com/@codebymonir">
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
+  </a>
+  <a href="https://codebymonir.com">
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+  <a href="mailto:codebymonir@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-<h1 align="center">Hi 👋 I'm Monir Hossen (CodeByMonir)</h1>
-<h3 align="center">MERN Stack Developer | Full Stack Developer</h3>
+<!-- ============================================ -->
+<!-- ANIMATED DIVIDER                             -->
+<!-- ============================================ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<!-- ============================================ -->
+<!-- ABOUT ME SECTION (3-4 Lines)                 -->
+<!-- ============================================ -->
+## 💫 **About Me**
 
 <p align="center">
-  I'm <strong>Monir Hossen</strong>, a passionate <strong>MERN Stack Developer</strong> specializing in building modern, responsive, and scalable web applications using <strong>MongoDB, Express.js, React.js, Node.js, Next.js, JavaScript, TypeScript, Tailwind CSS, Firebase, and REST APIs</strong>.
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50"/>
 </p>
 
-<p align="center">
-  I enjoy creating high-performance web applications, e-commerce platforms, interactive dashboards, SaaS products, and full-stack enterprise solutions that deliver exceptional user experiences.
-</p>
+I'm a passionate **Full-Stack Developer** from Bangladesh with 5+ years of experience in building modern web applications. I specialize in JavaScript, React, Node.js, and the MERN stack. I love solving complex problems, contributing to open source, and creating user-friendly applications that make a difference.
 
-<hr />
+```javascript
+const CodeByMonir = {
+  name: "Monir",
+  title: "Full-Stack Developer",
+  location: "📍 Dhaka, Bangladesh",
+  experience: "5+ Years",
+  passion: "Building scalable web applications",
+  mission: "Write clean code that solves real-world problems"
+};
+```
+<!-- ============================================ --><!-- CURRENT ACTIVITIES (Bullet Points) --><!-- ============================================ -->
+🔥 Current Activities
+<p align="center"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"/> </p>
+🚀 Exploring: Next.js 14, Server Components, and App Router
 
-<h2 align="center">🌐 Social Connects</h2>
+💻 Building: A full-featured Tourism Website with React & Node.js
 
-<p align="center">
-  <a href="https://codebymonir.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-38BDF8?style=flat&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/codebymonir" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://facebook.com/moniratmeta" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://instagram.com/moniratmeta" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="mailto:codebymonir@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+🌱 Learning: TypeScript, GraphQL, and Microservices Architecture
 
-<h2 align="center">💻 Tech Stack & Ecosystem</h2>
+☁️ Working on: Cloud deployment with AWS and Docker
 
-<p align="center">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router" />
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT" />
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify" />
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-</p>
+📝 Writing: Technical blogs about JavaScript and Web Development
 
-<hr />
+🤝 Contributing: Open source projects and community packages
 
-## 📊 Developer Core Metrics
+<!-- ============================================ --><!-- SKILLS SECTION (With Icons) --><!-- ============================================ -->
+🛠️ My Tech Stack
+Frontend Development
+<p align="center"> <img src="https://skillicons.dev/icons?i=react,next,js,ts,redux,tailwind,bootstrap,html,css,sass&perline=10" /> </p>
+Backend Development
+<p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,python,php,java,spring,graphql,rest&perline=8" /> </p>
+Database & Cloud
+<p align="center"> <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,firebase,redis,aws,azure,docker,kubernetes,vercel&perline=10" /> </p>
+Tools & Platforms
+<p align="center"> <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,linux,nginx,jenkins&perline=8" /> </p><!-- ============================================ --><!-- GITHUB STATS --><!-- ============================================ -->
+📊 GitHub Analytics
+<p align="center"> <a href="https://github.com/CodeByMonir"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CodeByMonir&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByMonir&layout=compact&langs_count=10&theme=radical&hide_border=true" /> </a> </p><!-- STREAK STATS --><p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByMonir&theme=radical&hide_border=true" /> </p><!-- CONTRIBUTION GRAPH --><p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeByMonir&bg_color=1a1b27&color=00F0FF&line=00F0FF&point=FFFFFF&area=true&hide_border=true" /> </p><!-- ============================================ --><!-- TROPHIES --><!-- ============================================ -->
+🏆 Achievements
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=CodeByMonir&theme=radical&no-frame=true&row=2&column=4" /> </p><!-- ============================================ --><!-- PROJECTS SHOWCASE --><!-- ============================================ -->
+🚀 Featured Projects
+<table> <tr> <td width="50%"> <h3 align="center">🏨 Tourism Website</h3> <p align="center"> <a href="https://github.com/CodeByMonir/tourism-website"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeByMonir&repo=tourism-website&theme=radical&hide_border=true" /> </a> </p> <p align="center">Full-featured tourism platform with React, Node.js, MongoDB</p> </td> <td width="50%"> <h3 align="center">🛒 E-Commerce Platform</h3> <p align="center"> <a href="https://github.com/CodeByMonir/ecommerce-platform"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeByMonir&repo=ecommerce-platform&theme=radical&hide_border=true" /> </a> </p> <p align="center">Full-stack e-commerce with Next.js, TypeScript, Stripe</p> </td> </tr> <tr> <td width="50%"> <h3 align="center">✅ Task Manager Pro</h3> <p align="center"> <a href="https://github.com/CodeByMonir/task-manager-pro"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeByMonir&repo=task-manager-pro&theme=radical&hide_border=true" /> </a> </p> <p align="center">Real-time task management with Next.js, Firebase, Tailwind</p> </td> <td width="50%"> <h3 align="center">🌤️ Weather Dashboard</h3> <p align="center"> <a href="https://github.com/CodeByMonir/weather-dashboard"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeByMonir&repo=weather-dashboard&theme=radical&hide_border=true" /> </a> </p> <p align="center">Real-time weather app with React, OpenWeather API, Chart.js</p> </td> </tr> </table><!-- ============================================ --><!-- LATEST BLOG POSTS --><!-- ============================================ -->
+📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+Building a REST API with Node.js and Express: Complete Guide
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=CodeByMonir&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Monir Hossen GitHub Stats" />
-  <br />
-  <img src="https://streak-stats.demolab.com/?user=CodeByMonir&theme=dark&hide_border=false" alt="CodeByMonir Streak Stats" />
-  <br />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=CodeByMonir&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="CodeByMonir Top Languages" />
-</p>
+10 React Hooks You Need to Know in 2026
 
-### 🏆 Technical Accomplishments
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CodeByMonir&theme=dark&no-frame=false&no-bg=true&margin-w=4" alt="Monir Hossen Github Trophies" />
-</p>
+MERN Stack Development: Best Practices and Tips
 
-<hr />
+Mastering Next.js 14: Server Components Explained
 
-## 🚀 Architectural Profile
-
-- **Engineering Philosophy:** Crafting performant Full Stack MERN Stack architectures with clean, reusable components.
-- **Frontend Mastery:** React.js & Next.js specialist optimized for Server-Side Rendering (SSR) and client-side fluid navigation.
-- **State & Auth Systems:** Deep experience managing context alongside robust Firebase & JWT authorization systems.
-- **Design Sensation:** Bringing visual ideas into responsive, flawless interfaces using Tailwind CSS and Figma specifications.
-- **Data Structuring:** Relational & Non-relational mapping through optimized MongoDB schemas and lightweight REST API endpoints.
-- **Locality:** Operating globally from **Bangladesh** 🌍.
-
-<hr />
-
-## 🌟 Production Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <blockquote>
-        <h3>🚗 Car Rental Platform</h3>
-        <p>A modern car rental web application built with the MERN Stack featuring responsive design, booking functionality, and dynamic vehicle management.</p>
-        <p>
-          <img src="https://img.shields.io/badge/MERN_Stack-Enterprise-blue?style=flat-square" alt="Stack" />
-          <img src="https://img.shields.io/badge/Status-Live-success?style=flat-square" alt="Status" />
-        </p>
-        <a href="https://car-rental-client-eight-opal.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/🚀_Live_Demo-Visit_System-238636?style=for-the-badge" alt="Live Button" />
-        </a>
-      </blockquote>
-    </td>
-    <td width="50%" valign="top">
-      <blockquote>
-        <h3>💼 Developer Portfolio Website</h3>
-        <p>Personal portfolio showcasing projects, skills, experience, and modern UI/UX design using Next.js, JavaScript, and Tailwind CSS.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Next.js-Optimization-black?style=flat-square" alt="Stack" />
-          <img src="https://img.shields.io/badge/Status-Live-success?style=flat-square" alt="Status" />
-        </p>
-        <a href="https://codebymonir.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/🚀_Live_Demo-Visit_System-238636?style=for-the-badge" alt="Live Button" />
-        </a>
-      </blockquote>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" width="100%" valign="top">
-      <blockquote>
-        <h3>🛒 SunCart Mall</h3>
-        <p>A full-featured e-commerce platform with modern shopping experience, product management, responsive design, and scalable architecture built on full-stack nodes.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Full_Stack-E--Commerce-orange?style=flat-square" alt="Stack" />
-          <img src="https://img.shields.io/badge/Architecture-Scalable-blueviolet?style=flat-square" alt="Architecture" />
-          <img src="https://img.shields.io/badge/Status-Live-success?style=flat-square" alt="Status" />
-        </p>
-        <a href="https://suncart-mall.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/🚀_Live_Demo-Visit_System-238636?style=for-the-badge" alt="Live Button" />
-        </a>
-      </blockquote>
-    </td>
-  </tr>
-</table>
-
-<hr />
-
-## 📈 Scalable Deployments Matrix
-
-<table>
-  <thead>
-    <tr>
-      <th width="50%" align="left">
-        <p align="left">
-          <img src="https://img.shields.io/badge/🛠️_Engineered_Solutions-What_I_Build-007ACC?style=for-the-badge" alt="What I Build Title" />
-        </p>
-      </th>
-      <th width="50%" align="left">
-        <p align="left">
-          <img src="https://img.shields.io/badge/🎯_Technical_Horizons-Current_Focus-🚀?style=for-the-badge" alt="Current Focus Title" />
-        </p>
-      </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td valign="top">
-        <ul>
-          <li><strong>MERN Stack Applications</strong> — Dynamic, secure web systems built for fast execution metrics.</li>
-          <li><strong>Full Stack Architectures</strong> — End-to-end user flows connected via unified control paths.</li>
-          <li><strong>E-commerce Platforms</strong> — Rich visual interfaces handling scalable inventory cycles.</li>
-          <li><strong>Custom Dashboards & SaaS</strong> — High-fidelity administration systems with minimal layout overhead.</li>
-          <li><strong>Robust REST Web Nodes</strong> — Highly clean, reusable JSON API pathways and secure authentications.</li>
-        </ul>
-      </td>
-      <td valign="top">
-        <ul>
-          <li><strong>Advanced Next.js Systems</strong> — Moving deeper into performance rendering patterns and fluid data hooks.</li>
-          <li><strong>Scalable App Optimization</strong> — Profiling heavy operational execution speeds and load times.</li>
-          <li><strong>Distributed Code Paradigms</strong> — Maintaining clear layout architecture structures and modern modular rules.</li>
-          <li><strong>Clean Code Standards</strong> — Following absolute linting best practices to ensure production reliability.</li>
-        </ul>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-<br />
-
-<p align="right">
-  <a href="https://visitcount.itsvg.in" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=CodeByMonir&icon=0&color=0" alt="Profile View Tracker" />
-  </a>
-</p>
-
-<!-- 
-SEO Metadata Block
-Optimized tags for crawling search index discoverability:
-Keywords: Monir Hossen, CodeByMonir, MERN Stack Developer Bangladesh, Full Stack Developer, React Developer, Next.js Developer, Node.js Developer, MongoDB Developer, Software Engineer Bangladesh, Frontend Developer, Backend Developer.
--->
+<!-- BLOG-POST-LIST:END --><!-- ============================================ --><!-- SNAKE GAME CONTRIBUTION --><!-- ============================================ -->
+🐍 Contribution Snake
+<p align="center"> <img src="https://github.com/CodeByMonir/CodeByMonir/blob/output/github-contribution-grid-snake.svg" /> </p><!-- ============================================ --><!-- SUPPORT SECTION --><!-- ============================================ -->
+💖 Support My Work
+<p align="center"> <a href="https://buymeacoffee.com/codebymonir"> <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /> </a> <a href="https://patreon.com/codebymonir"> <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" /> </a> <a href="https://paypal.me/codebymonir"> <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /> </a> <a href="https://github.com/sponsors/CodeByMonir"> <img src="https://img.shields.io/badge/GitHub_Sponsors-30363D?style=for-the-badge&logo=github-sponsors&logoColor=EA4AAA" /> </a> </p><!-- ============================================ --><!-- VISITOR COUNTER --><!-- ============================================ -->
+👀 Profile Views
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=CodeByMonir&label=Profile%20Views&color=00F0FF&style=flat" /> </p><!-- ============================================ --><!-- WAVY FOOTER --><!-- ============================================ --><p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/> </p><!-- ============================================ --><!-- FOOTER --><!-- ============================================ --><p align="center"> <b>💡 "Write clean code that solves real-world problems"</b> <br> <i>© 2026 CodeByMonir | Built with ❤️ and ☕</i> <br> <code>#CodeByMonir #FullStackDeveloper #JavaScript #React #NodeJS #MERN</code> </p>
