@@ -12,17 +12,18 @@ jobs:
       contents: write
     
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4  # v3 থেকে v4 তে আপগ্রেড করা হয়েছে
       
       - uses: Platane/snk@v3
         id: snake-gif
         with:
           github_user_name: CodeByMonir
           outputs: |
-            output/github-contribution-grid-snake.svg
+            # টেকসই নীল (Tech Blue) থিম - আপনার জন্য সেরা পছন্দ
+            output/github-contribution-grid-snake.svg?color_snake=#00F0FF&color_dots=#0D1117,#00F0FF,#0066CC,#003366
             output/github-contribution-grid-snake-dark.svg?palette=github-dark
       
-      - uses: stefanzweifel/git-auto-commit-action@v4
+      - uses: stefanzweifel/git-auto-commit-action@v5  # v4 থেকে v5 তে আপগ্রেড করা হয়েছে
         with:
-          commit_message: "🔄 Update snake animation"
+          commit_message: "🔄 Update snake animation with Tech Blue theme"
           file_pattern: 'output/*.svg'
