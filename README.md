@@ -90,7 +90,7 @@ Frontend Development
 Backend Development
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,rest&perline=5" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis&perline=5" />
 </p>
 <p align="center">
 Database & Cloud
