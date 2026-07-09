@@ -89,11 +89,15 @@ Frontend Development
 <p align="center">
 Backend Development
 </p>
-<p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,nosql,rest&perline=8" /> </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,rest&perline=5" />
+</p>
 <p align="center">
 Database & Cloud
 </p>
-<p align="center"> <img src="https://skillicons.dev/icons?i=mongodb,vercel&perline=10" /> </p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,vercel&perline=10" />
+</p>
 <p align="center">
 Tools & Platforms
 </p>
